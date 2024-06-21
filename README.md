@@ -3,7 +3,7 @@ Product of Array except itself
 Problem Statement 
 
 In the resulting vector in place of each element should be product of its left & right elements except itself.
-No division should be used & algorithm derived should run in O(N).
+Must write an algorithm that runs in O(n) time and without using the division operation.
 
 Solution Approach
 
